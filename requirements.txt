@@ -1,5 +1,5 @@
-requests
-nose
+requests==2.21.0
+nose==1.3.7
 nose-cov
 sphinx
 mock

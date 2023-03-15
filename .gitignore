@@ -6,3 +6,4 @@ build
 .tox
 .python-version
 *.sublime-project
+.DS_Store
